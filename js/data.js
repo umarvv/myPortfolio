@@ -1,5 +1,15 @@
 export default [
   {
+    title: "EXAM MONTH 3",
+    github: "https://github.com/umarvv/examFrontend1",
+    vercel: "https://exam-frontend1.vercel.app/",
+  },
+  {
+    title: "Design",
+    github: "https://github.com/umarvv/design",
+    vercel: "https://design-mu-seven.vercel.app/",
+  },
+  {
     title: "Coffee Street",
     github: "https://github.com/umarvv/coffee-street",
     vercel: "https://coffee-street-blond.vercel.app/",
