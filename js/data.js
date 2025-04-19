@@ -1,8 +1,8 @@
 export default [
   {
     title: "EXAM MONTH 3",
-    github: "https://github.com/umarvv/examFrontend1",
-    vercel: "https://exam-frontend1.vercel.app/",
+    github: "https://github.com/umarvv/exam3month",
+    vercel: "https://exam3month.vercel.app/",
   },
   {
     title: "Design",
