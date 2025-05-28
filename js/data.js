@@ -1,5 +1,11 @@
 export default [
   {
+    title: "5-oy 4-dars Music Player",
+    github: "https://github.com/umarvv/musicplayer",
+    vercel: "https://musicplayer-liard.vercel.app",
+  },
+
+  {
     title: "EXAM MONTH 3",
     github: "https://github.com/umarvv/exam3month",
     vercel: "https://exam3month.vercel.app/",
