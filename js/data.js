@@ -1,5 +1,10 @@
 export default [
   {
+    title: "travel site",
+    github: "https://github.com/umarvv/travel-site",
+    vercel: "https://travel-site-six-tawny.vercel.app/",
+  },
+  {
     title: "5-oy 4-dars Music Player",
     github: "https://github.com/umarvv/musicplayer",
     vercel: "https://musicplayer-liard.vercel.app",
