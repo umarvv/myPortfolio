@@ -1,8 +1,10 @@
 export default [
   {
     title: "Exam 5-month",
-    github: "https://github.com/umarvv/examt5month",
+    github: "https://github.com/umarvv/template",
+    vercel: "https://template-nu-flame.vercel.apps",
   },
+
   {
     title: "travel site",
     github: "https://github.com/umarvv/travel-site",
